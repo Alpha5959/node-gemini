@@ -1,6 +1,6 @@
 const Gemini = require('./node-gemini');
 
-// Set configuration (replace with your actual API key and RapidAPI key)
+//Set configuration (replace with your actual API key and RapidAPI key)
 
 Gemini.setConfig({
   apikey: 'your_api_key',
